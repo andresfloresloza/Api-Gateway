@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andres Flores\\OneDrive - Universidad Núr\\Escritorio\\Taller de Ingenieria Web\\2do Parcial\\Proyecto Final\\ApiGateway\\ApiGateway\\ApiGateway.csproj": {}
+    "D:\\Taller Web\\APIGateWay\\Api-Gateway\\ApiGateway\\ApiGateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andres Flores\\OneDrive - Universidad Núr\\Escritorio\\Taller de Ingenieria Web\\2do Parcial\\Proyecto Final\\ApiGateway\\ApiGateway\\ApiGateway.csproj": {
+    "D:\\Taller Web\\APIGateWay\\Api-Gateway\\ApiGateway\\ApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andres Flores\\OneDrive - Universidad Núr\\Escritorio\\Taller de Ingenieria Web\\2do Parcial\\Proyecto Final\\ApiGateway\\ApiGateway\\ApiGateway.csproj",
+        "projectUniqueName": "D:\\Taller Web\\APIGateWay\\Api-Gateway\\ApiGateway\\ApiGateway.csproj",
         "projectName": "ApiGateway",
-        "projectPath": "C:\\Users\\Andres Flores\\OneDrive - Universidad Núr\\Escritorio\\Taller de Ingenieria Web\\2do Parcial\\Proyecto Final\\ApiGateway\\ApiGateway\\ApiGateway.csproj",
-        "packagesPath": "C:\\Users\\Andres Flores\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andres Flores\\OneDrive - Universidad Núr\\Escritorio\\Taller de Ingenieria Web\\2do Parcial\\Proyecto Final\\ApiGateway\\ApiGateway\\obj\\",
+        "projectPath": "D:\\Taller Web\\APIGateWay\\Api-Gateway\\ApiGateway\\ApiGateway.csproj",
+        "packagesPath": "C:\\Users\\MS\\.nuget\\packages\\",
+        "outputPath": "D:\\Taller Web\\APIGateWay\\Api-Gateway\\ApiGateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Andres Flores\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

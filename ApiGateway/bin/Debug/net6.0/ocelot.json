@@ -131,6 +131,126 @@
       ],
       "Key": "InsertCompras"
     },
+    //////////////////// VENTAS  ////////////////////
+
+    {
+      "UpstreamPathTemplate": "/api/venta/",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/venta/",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "Key": "InsertVentasVenta"
+    },
+    {
+      "UpstreamPathTemplate": "/api/venta/comprador/search",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/venta/comprador/search",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "Key": "GetCompradoresVenta"
+    },
+    {
+      "UpstreamPathTemplate": "/api/venta/comprador",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/venta/comprador",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "Key": "InserCompradorVenta"
+    },
+    {
+      "UpstreamPathTemplate": "/api/venta/comprador",
+      "UpstreamHttpMethod": [ "PATCH" ],
+      "DownstreamPathTemplate": "/api/venta/comprador",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "Key": "UpdateCompradorVenta"
+    },
+    {
+      "UpstreamPathTemplate": "/api/venta/comprador",
+      "UpstreamHttpMethod": [ "DELETE" ],
+      "DownstreamPathTemplate": "/api/venta/comprador",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "Key": "DeleteCompradorVenta"
+    },
+    {
+      "UpstreamPathTemplate": "/api/venta/producto/search/",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/venta/producto/search/",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "Key": "GetProductosVenta"
+    },
+    {
+      "UpstreamPathTemplate": "/api/venta/producto/",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/venta/producto/",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "Key": "InsertProductoVenta"
+    },
+    {
+      "UpstreamPathTemplate": "/api/venta/producto/",
+      "UpstreamHttpMethod": [ "PUT" ],
+      "DownstreamPathTemplate": "/api/venta/producto/",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "Key": "UpdateProductoVenta"
+    },
+    {
+      "UpstreamPathTemplate": "/api/venta/producto/",
+      "UpstreamHttpMethod": [ "DELETE" ],
+      "DownstreamPathTemplate": "/api/venta/producto/",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5001
+        }
+      ],
+      "Key": "DeleteProductoVenta"
+    },
+
     ////////////////////  LOGIN  ////////////////////
     {
       "UpstreamPathTemplate": "/api/security/login",

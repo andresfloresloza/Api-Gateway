@@ -41,3 +41,46 @@ C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\ApiGateway\ApiGate
 C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
 C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
 C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\ApiGateway\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\appsettings.json
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\ocelot.json
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\ApiGateway.exe
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\ApiGateway.deps.json
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\ApiGateway.runtimeconfig.json
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\ApiGateway.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\ApiGateway.pdb
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Ocelot.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.AssemblyReference.cache
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfoInputs.cache
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfo.cs
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CoreCompileInputs.cache
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\scopedcss\bundle\ApiGateway.styles.css
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CopyComplete
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\ApiGateway.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\refint\ApiGateway.dll
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
+D:\Taller Web\APIGateWay\Api-Gateway\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll
