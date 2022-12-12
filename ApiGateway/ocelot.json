@@ -141,7 +141,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5001
+          "Port": 8001
         }
       ],
       "Key": "InsertVentasVenta"
@@ -154,7 +154,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5001
+          "Port": 8001
         }
       ],
       "Key": "GetCompradoresVenta"
@@ -167,7 +167,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5001
+          "Port": 8001
         }
       ],
       "Key": "InserCompradorVenta"
@@ -180,7 +180,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5001
+          "Port": 8001
         }
       ],
       "Key": "UpdateCompradorVenta"
@@ -193,7 +193,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5001
+          "Port": 8001
         }
       ],
       "Key": "DeleteCompradorVenta"
@@ -206,7 +206,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5001
+          "Port": 8001
         }
       ],
       "Key": "GetProductosVenta"
@@ -219,7 +219,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5001
+          "Port": 8001
         }
       ],
       "Key": "InsertProductoVenta"
@@ -232,7 +232,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5001
+          "Port": 8001
         }
       ],
       "Key": "UpdateProductoVenta"
@@ -245,7 +245,7 @@
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5001
+          "Port": 8001
         }
       ],
       "Key": "DeleteProductoVenta"
